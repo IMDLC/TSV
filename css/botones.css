@@ -1,0 +1,9 @@
+.resgistro[type="button"] {
+    border: none;
+    outline: none;
+    height: 30px;
+    background: #FFCE3F;
+    color: #0c0c0c;
+    font-size: 18px;
+    border-radius: 20px;
+  }
